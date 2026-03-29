@@ -1,0 +1,2 @@
+# apps-list.md
+# Base Apps List  Tracking useful apps within Base ecosystem.
